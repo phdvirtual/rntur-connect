@@ -1,4 +1,7 @@
+#Sources
 :sources:
+  Hotel:
+    :poll_interval: 300
 
 :development:
   :licensefile: settings/license.key
